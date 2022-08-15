@@ -1,7 +1,7 @@
 # Microsoft Corp blocklist
 # Based on a few other MSFT lists and Microsoft's own disclosures
-# Use with caution as this will block Windows Update!
-# Updated 01/25/2020
+# Attempted to remove references to Windows Update so that can work without disabling adblocker. But, use caution! Windows Update may still not work.
+# Updated 08/15/2022
 
 a-0001.a-msedge.net
 a-0002.a-msedge.net
@@ -104,7 +104,6 @@ assets.onestore.ms
 atdmt.com
 atlas.c10r.facebook.com
 atlassolutions.com
-au.download.windowsupdate.com
 audible.com
 auth.gfx.ms
 az361816.vo.msecnd.net
@@ -346,7 +345,6 @@ crmlivetie2.com
 cs1.wpc.v0cdn.net
 cs11.wpc.v0cdn.net
 cs9.wac.phicdn.net
-ctldl.windowsupdate.com
 cy2.displaycatalog.md.mp.microsoft.com.akadns.net
 cy2.licensing.md.mp.microsoft.com.akadns.net
 cy2.purchase.md.mp.microsoft.com.akadns.net
@@ -363,7 +361,6 @@ db5.vortex.data.microsoft.com.akadns.net
 dc.services.visualstudio.com
 deepmatrix.com
 deepmetrix.com
-definitionupdates.microsoft.com
 delivery.dsp.mp.microsoft.com.nsatc.net
 delivery.mp.microsoft.com
 demdex.com
@@ -388,7 +385,6 @@ do.com
 doubleclick.net
 download-ssl.msgamestudios.com
 download.com
-download.windowsupdate.com
 downloadgamecenter.net
 downloadgamecenter.org
 downloadgamescenter.com
@@ -483,18 +479,13 @@ expediapartners.com
 explore.ms
 facultyconnection.com
 farolatino.com
-fe2.update.microsoft.com
-fe2.update.microsoft.com.akadns.net
-fe2.update.microsoft.com.nsatc.net
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 fe3.delivery.mp.microsoft.com
-fe3.update.microsoft.com
 fedtest-int.com
 fedtest.com
 feedback.microsoft-hohm.com
 feedback.search.microsoft.com
 feedback.windows.com
-fg.download.windowsupdate.com
 flex.msn.com
 flurry.com
 footprintpredict.com
@@ -522,7 +513,6 @@ gowindowslive.net
 gowindowslive.org
 h1.msn.com
 h2.msn.com
-hardware-update.com
 healthvolt.net
 hk2.settings.data.microsoft.com.akadns.net
 hk2.wns.windows.com
@@ -915,8 +905,6 @@ microsoftsurface.com.br
 microsofttemplates.com
 microsofttemplates.org
 microsofttouch.fr
-microsoftupdate.com
-microsoftupdates.eu
 microsoftvirtualacademy.com
 microsoftvolumelicensing.com
 microsoftwildcat.com
@@ -1024,8 +1012,6 @@ msstudentlounge.com
 msstudiosmedia.com
 msteams.com
 mswep.com
-mswindows-update.com
-mswindowsupdates.com
 mtcdemos.net
 musicgiants.com
 musicmatch.com
@@ -1176,11 +1162,6 @@ skypeassets.com
 skypeassets.net
 skypeecs-prod-usw-0-b.cloudapp.net
 skypeecs-prod-usw-0.cloudapp.net
-sls.update.microsoft.com
-sls.update.microsoft.com.akadns.net
-sls.update.microsoft.com.nsatc.net
-sls.update.microsoft.comnsatc.net
-slscr.update.microsoft.com
 sm.mcafee.com
 smartscreen-sn3p.smartscreen.microsoft.com
 smartscreen.microsoft.com
@@ -1215,7 +1196,6 @@ static.78-46-223-24.clients.your-server.de
 static.78-46-223-24.clients.yourserver.de
 stationq.com
 statsfe1.ws.microsoft.com
-statsfe2.update.microsoft.com.akadns.net
 statsfe2.ws.microsoft.com
 store-images.microsoft.com
 store-images.s-microsoft.com
@@ -1251,7 +1231,6 @@ tunnel.cfw.trustedsource.org
 ui.skype.com
 umwatsonc.events.data.microsoft.com
 unitedstates.smartscreen-prod.microsoft.com
-update.microsoft.com
 updatekeepalive.mcafee.com
 urge.com
 urs.microsoft.com.nsatc.net
@@ -1389,8 +1368,6 @@ windowssearch.com
 windowsserverfeedback.com
 windowsserverhyper-v.com.br
 windowsstore.com
-windowsupdate.com
-windowsupdate.com.br
 windowsvissa.com
 windowsvista.kz
 windowsxp.com.br
